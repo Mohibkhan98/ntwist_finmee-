@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohibkhan98.github.io/Ntwist_Assignment/static/css/main.4ba66a2e.css",
+    "main.js": "/Mohibkhan98.github.io/Ntwist_Assignment/static/js/main.b19571e6.js",
+    "static/js/787.bb3cb98a.chunk.js": "/Mohibkhan98.github.io/Ntwist_Assignment/static/js/787.bb3cb98a.chunk.js",
+    "index.html": "/Mohibkhan98.github.io/Ntwist_Assignment/index.html",
+    "main.4ba66a2e.css.map": "/Mohibkhan98.github.io/Ntwist_Assignment/static/css/main.4ba66a2e.css.map",
+    "main.b19571e6.js.map": "/Mohibkhan98.github.io/Ntwist_Assignment/static/js/main.b19571e6.js.map",
+    "787.bb3cb98a.chunk.js.map": "/Mohibkhan98.github.io/Ntwist_Assignment/static/js/787.bb3cb98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba66a2e.css",
+    "static/js/main.b19571e6.js"
+  ]
+}
