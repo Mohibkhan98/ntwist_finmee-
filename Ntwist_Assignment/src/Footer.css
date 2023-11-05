@@ -1,0 +1,96 @@
+.footer {
+    background-color: #001f3f; /* Dark navy blue background color */
+    color: #fff; /* Text color */
+    padding: 20px 0; /* Add padding as needed */
+    text-align: center; /* Center the content horizontally */
+  }
+  
+  .footer-center {
+    display: flex;
+    flex-direction: column; /* Stack the items vertically */
+    align-items: center; /* Center the content horizontally */
+    justify-content: flex-start; /* Align content at the top */
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px; /* Add space below the logo */
+  }
+  
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Add gap between the links */
+  }
+  
+  .footer-links li {
+    margin: 0;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #fff; /* Link text color */
+    font-size: 16px;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+  }
+
+  
+  /* ... Your existing CSS styles ... */
+
+.footer {
+    background-color: #001f3f; /* Dark navy blue background color */
+    color: #fff; /* Text color */
+    padding: 20px 0; /* Add padding as needed */
+    text-align: center; /* Center the content horizontally */
+  }
+  
+  .footer-center {
+    display: flex;
+    flex-direction: column; /* Stack the items vertically */
+    align-items: center; /* Center the content horizontally */
+    justify-content: flex-start; /* Align content at the top */
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px; /* Add space below the logo */
+  }
+  
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px; /* Add gap between the links */
+  }
+  
+  .footer-links li {
+    margin: 0;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #fff; /* Link text color */
+    font-size: 16px;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+  }
+  
+  .footer-bottom {
+    display: flex;
+    gap: 10px; /* Add gap between the small logos */
+    margin-top: 10px; /* Add margin space above the small logos */
+  }
+  
+  .footer-bottom img {
+    width: 50px; /* Set the width of the small logos as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
